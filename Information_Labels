@@ -1,0 +1,36 @@
+1) Name: Gender
+Male      1
+Female    0
+
+===========================    
+2) Name: Dependents
+0     274
+2      85
+1      80
+3+     41
+
+============================
+3)
+Married: 1
+Unmarried: 0
+============================
+4)
+Graduate: 0
+Non-Graduate: 1
+===============================
+5) Name: Self_Employed    
+No     0
+Yes    1
+============================    
+6)Name: Credit_History
+1.0    
+0.0    
+===================================
+7)Area
+Rural:0
+Semi-Urban:1
+Urban:2
+======================================        
+Y    332
+N    148
+Name: Loan_Status
